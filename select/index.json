@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "アウト",
+  "base_artist": "Polkadot Stingray",
+  "createdAt": "2025-12-25T15:39:56.990734Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "エディーズ・カミン・アウト・トゥナイト (ライヴ)",
+      "artist": "Night Ranger",
+      "has_synced": false,
+      "path": "select/01_エディーズ・カミン・アウト・トゥナイト_(ライヴ)_Night_Ranger.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ランニング・アウト・オブ・タイム",
+      "artist": "Night Ranger",
+      "has_synced": false,
+      "path": "select/02_ランニング・アウト・オブ・タイム_Night_Ranger.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ウィ・キャン・ワーク・イット・アウト",
+      "artist": "Night Ranger",
+      "has_synced": false,
+      "path": "select/03_ウィ・キャン・ワーク・イット・アウト_Night_Ranger.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ブラッド・イン・ブラッド・アウト",
+      "artist": "Exodus",
+      "has_synced": true,
+      "path": "select/04_ブラッド・イン・ブラッド・アウト_Exodus.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "スピット・アウト・ザ・ポイズン",
+      "artist": "Skindred",
+      "has_synced": false,
+      "path": "select/05_スピット・アウト・ザ・ポイズン_Skindred.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アイル・ネヴァー・ゲット・アウト・オブ・ディス・ワールド・アライヴ",
+      "artist": "ハンク・ウィリアムス",
+      "has_synced": false,
+      "path": "select/06_アイル・ネヴァー・ゲット・アウト・オブ・ディス・ワールド・アライヴ_ハンク・ウィリアムス.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "シャット・アウト",
+      "artist": "Akina Nakamori",
+      "has_synced": false,
+      "path": "select/07_シャット・アウト_Akina_Nakamori.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "オールウェイズ・ランニング・アウト・オブ・タイム",
+      "artist": "Motion City Soundtrack",
+      "has_synced": true,
+      "path": "select/08_オールウェイズ・ランニング・アウト・オブ・タイム_Motion_City_Soundtrack.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "フェイド アウト",
+      "artist": "Inu",
+      "has_synced": true,
+      "path": "select/09_フェイド_アウト_Inu.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "フェイド・アウト",
+      "artist": "INU",
+      "has_synced": true,
+      "path": "select/10_フェイド・アウト_INU.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ヘディング・アウト・ウェスト・トゥ・インディア",
+      "artist": "Godiego",
+      "has_synced": false,
+      "path": "select/11_ヘディング・アウト・ウェスト・トゥ・インディア_Godiego.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sail to the Moon. (Brush the Cobwebs Out of the Sky.) = セイル・トゥ・ザ・ムーン （ブラッシュ・ザ・コブウェブス・アウト・オブ・ザ・スカイ）",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/12_Sail_to_the_Moon._(Brush_the_Cobwebs_Out_of_the_Sky.)_=_セイル・トゥ・ザ・ムーン_(ブラッシュ・ザ・コブ_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "アウト・ブルーズ",
+      "artist": "Thee Michelle Gun Elephant",
+      "has_synced": true,
+      "path": "select/13_アウト・ブルーズ_Thee_Michelle_Gun_Elephant.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ステッピン・アウト",
+      "artist": "FPM",
+      "has_synced": true,
+      "path": "select/14_ステッピン・アウト_FPM.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "シャット・アウト",
+      "artist": "Nakamori, Akina",
+      "has_synced": false,
+      "path": "select/15_シャット・アウト_Nakamori,_Akina.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "イン・アンド・アウト",
+      "artist": "Van Halen",
+      "has_synced": true,
+      "path": "select/16_イン・アンド・アウト_Van_Halen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アウト",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": false,
+      "path": "select/pl_01_アウト_ポルカドットスティングレイ.txt"
+    }
+  ]
+}
